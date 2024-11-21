@@ -27,4 +27,4 @@ window.addEventListener('offline', () => {
 });
 
 // Initial check when the script loads
-checkInternet();
+// checkInternet();
